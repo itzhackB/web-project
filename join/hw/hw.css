@@ -1,0 +1,11 @@
+.div{
+    border:5px dotted teal;
+    
+    font-style: italic;
+
+}
+
+#fade{
+    background-color: darkcyan;
+    opacity: 0.7;
+}
